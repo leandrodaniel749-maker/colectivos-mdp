@@ -1,2 +1,2 @@
 # colectivos-mdp
-Es una App nueva para probar nuevas cosas 
+Es una App para probar cosas  nuevas 
